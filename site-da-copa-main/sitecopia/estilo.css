@@ -1,0 +1,73 @@
+.cor1{
+    background-color: rgb(105, 23, 55);
+}
+.nome{
+    color:white;
+}
+.container > h2{
+    color: white;
+}
+.btn{
+    border:1px solid white;
+    color: white;
+    background: none;
+}
+.btn:hover{
+    background-color:rgb(0, 0, 0);
+    color: white;
+    border-color: white;
+    box-shadow: 2px 2px 2px black;
+}
+
+.filme{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.fotos{
+     margin: auto;
+}
+
+#quadradonot{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 10px;
+    background-color: #000000c6;
+    border-radius: 15px 15px 15px 15px;
+    color: #731a4b;
+    margin-left: 10px;
+    padding-left: 15px;
+    padding-top: 5px;
+  }
+  #quadradonot{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+   
+  }
+  #quadradonot2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+   
+  }
+  #noticias{
+    border-radius: 15px 15px 15px 15px;
+    color: #ffffff;
+    margin-left: 10px;
+    padding-left: 15px;
+    padding-top: 5px;
+    background-color: rgb(105, 23, 55);
+    margin-top: 20px;
+  }
+  a{
+    color: white;
+    }
+
+    #jogos{
+        border-radius: 15px 15px 15px 15px;
+        color: #ffffff;
+        margin-left: 10px;
+        padding-left: 15px;
+        padding-top: 5px;
+        background-color: rgb(105, 23, 55);
+        margin-top: 20px;
+    }
